@@ -1,3 +1,5 @@
+![Ai](https://github.com/prince-maan/AI-Memory-Agent-Project/blob/main/ffmfmf.png)
+
 # 🧠 AI Agent with Long-Term Memory
 
 This project demonstrates an intelligent **AI Agent** built using Google's Agent Development Kit (ADK) and Gemini models. Unlike standard chatbots that forget context after a conversation ends, this agent possesses **Long-Term Memory**.
