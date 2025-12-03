@@ -39,7 +39,7 @@ Want to see this AI Memory Agent in action? Or understand the full architecture 
 🔊 **Watch the Full Demo Podcast Here:** [ (https://youtu.be/gSn2uq5ug4U?si=cgXrjvtZRJ3eInP7) ]
 
 
-⚒️ How does to it work and how to ues it: [(https://github.com/prince-maan/AI-Memory-Agent-Project/blob/main/How%20does%20to%20it%20work%20and%20-how%20to%20ues%20it.pdf)]
+⚒️ How does to it work and how to ues it: How does to it work and -how to ues it.pdf
 
 
 > **Quick Summary:** This project demonstrates how to give an AI "Long-Term Memory." Unlike standard chatbots that forget everything after a refresh, this agent uses Google ADK to remember user details (like your name or birthday) forever. It's a proof-of-concept for building smarter Personal Assistants.
