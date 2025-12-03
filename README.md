@@ -1,6 +1,6 @@
 ![Ai](https://github.com/prince-maan/AI-Memory-Agent-Project/blob/main/ffmfmf.png)
 
-                          This is a Main [Kaggle Project](https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764739147251). 
+  This is a Main [Kaggle Project](https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764739147251). 
 
 # 🧠 AI Agent with Long-Term Memory
 
