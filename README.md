@@ -45,6 +45,14 @@ Want to see this AI Memory Agent in action? Or understand the full architecture 
 👾  Project Code: [---View Now---](https://github.com/prince-maan/AI-Memory-Agent-Project/blob/main/AI-Memory-Agent-Project.ipynb)
 
 
+---
+
+🤺 This project is also available on [Kaggle Notebook](https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764739147251):
+
+---
+
+Join the 5-Day AI Agents Intensive Course: I was participating in the Join the 5-Day AI Agents Intensive Course , and this project was assigned to me.
+
 
 > **Quick Summary:** This project demonstrates how to give an AI "Long-Term Memory." Unlike standard chatbots that forget everything after a refresh, this agent uses Google ADK to remember user details (like your name or birthday) forever. It's a proof-of-concept for building smarter Personal Assistants.
 
