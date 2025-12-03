@@ -1,5 +1,7 @@
 ![Ai](https://github.com/prince-maan/AI-Memory-Agent-Project/blob/main/ffmfmf.png)
 
+                          This is a Main [Kaggle Project](https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764739147251). 
+
 # 🧠 AI Agent with Long-Term Memory
 
 This project demonstrates an intelligent **AI Agent** built using Google's Agent Development Kit (ADK) and Gemini models. Unlike standard chatbots that forget context after a conversation ends, this agent possesses **Long-Term Memory**.
