@@ -25,8 +25,37 @@ This project demonstrates an intelligent **AI Agent** built using Google's Agent
 
 ## 📸 Project Structure 
 
-* `day-3b-agent-memory.ipynb`: The main Jupyter Notebook containing the agent logic, memory implementation, and testing workflow.
-* `requirements.txt`: List of dependencies required to run the project.
+
+
+---
+
+## ✌️ Watch the Demo & Learn More
+
+Want to see this AI Memory Agent in action? Or understand the full architecture in simple terms?
+
+
+🎥 **Watch the Full Video Demo Here:** [ (https://youtu.be/8P2snkB7HYo?si=57rwEmyhNrBdjlvE) ]
+
+🔊 **Watch the Full Demo Podcast Here:** [ (https://youtu.be/gSn2uq5ug4U?si=cgXrjvtZRJ3eInP7) ]
+
+
+⚒️ 
+
+
+> **Quick Summary:** This project demonstrates how to give an AI "Long-Term Memory." Unlike standard chatbots that forget everything after a refresh, this agent uses Google ADK to remember user details (like your name or birthday) forever. It's a proof-of-concept for building smarter Personal Assistants.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
