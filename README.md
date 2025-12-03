@@ -23,7 +23,7 @@ This project demonstrates an intelligent **AI Agent** built using Google's Agent
 3.  **Memorizing:** The session data is transferred to the Memory Service (either manually or automatically via callbacks).
 4.  **Retrieving:** In a future conversation, if the user asks "When is my birthday?", the agent searches its memory bank and retrieves the correct date.
 
-## 📸 Project Structure
+## 📸 Project Structure 
 
 * `day-3b-agent-memory.ipynb`: The main Jupyter Notebook containing the agent logic, memory implementation, and testing workflow.
 * `requirements.txt`: List of dependencies required to run the project.
