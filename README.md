@@ -29,4 +29,4 @@ This project demonstrates an intelligent **AI Agent** built using Google's Agent
 * `requirements.txt`: List of dependencies required to run the project.
 
 ---
-*Created by Katori wala todi wala*
+
